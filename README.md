@@ -1,14 +1,52 @@
+# Gabriel Proença de Araujo
+
+## Informações Pessoais
+- Brasileiro, solteiro, 30 anos / CNH: A/B
+- Telefone: (15) 99827-3472 / E-mail: gabrielproencaaraujo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gabrielproencaaraujo/  
+- GitHub: https://github.com/GPA1992 
+- Site Pessoal: https://gabrielproenca.netlify.app/
+
+## Formação
+- Estudante de desenvolvimento na Trybe – Previsão de conclusão 2023
+- Técnico em Mineração – Etec. Demetrio Azevedo Junior – Conclusão em 2013
+
+## Resumo
+Desenvolvedor autônomo em constante evolução buscando expandir minhas habilidades e conhecimentos. Realizo diversos estudos e projetos pessoais para aumentar minha expertise e estar sempre atualizado com as ferramentas mais utilizadas no mercado de trabalho. Atualmente, estou fazendo o curso da Trybe para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+
+## Principais tecnologias
+- Git&Github, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql
+
+## Soft Skills
+### Comunição e Assertividade:
+Prezo pela comunicação com assertividade para expressar minhas ideias e pensamentos de forma
+clara e eficaz. Busco sempre aprimorar isso, pois considero que a comunicação é fundamental para
+a colaboração e para o alcance de metas comuns.
+### Feedback:
+Valorizo o aprendizado e a melhoria constante, buscando sempre por feedbacks assertivos mesmo
+que as vezes tragam alguma devolutiva negativa, considero isso essencial para o desenvolvimento
+pessoal e profissional.
+### Adaptatividade:
+Busco ser inovador e me adapto bem a novos ambientes. Acredito que isso é muito valioso em um
+mundo em constante mudança. Minha capacidade de pensar de forma criativa e encontrar soluções
+diferentes para os desafios, além de minha adaptabilidade, são muito úteis em diversas situações,
+me trazendo autonomia e bons resultados se tratando de solucionar problemas. Em resumo,
+minhas softskills incluem minha habilidade de comunicação, busca por feedbacks assertivos,
+otimismo, entusiasmo, inovação e adaptabilidade.
+
+## Idiomas
+- Inglês – básico(boa leitura e compreensão)
+
+## Histórico Profissional
 ### Freelancer Desenvolvimento de Aplicações Web (2022 - atual)
   - Desenvolvimento de aplicações WEB
   - Foco em sites institucionais e sistemas
   - Solução de problemas e melhorias para clientes
-
 ### Freelance Geoprocessamento (2019-2021)
   - Prestação de serviços para empresas que precisam de material cartográfico
   - Empresas do ramo da silvicultura, mineração, engenharia, geologia e meio ambiente
   - Produção de material com base nas exigências técnicas específicas
   - Mantendo sempre um produto final com informações atualizadas e alinhado com normas de cada órgão regulador
-
 ### Auxiliar Georreferenciamento e Desenhista SIG/Geoprocessamento Maringá Ferro Liga S.A (2016-2019)
   - Trabalhos no âmbito da mineração e geoprocessamento, sensoriamento remoto e georreferenciamento
   - Elaboração de peças técnicas para prospecção mineral
@@ -17,21 +55,18 @@
   - Elaboração de peças técnicas e trabalhos de campo para o setor ambiental
   - Trabalhos com GPS RTK, processamento de dados e elaboração de peças técnicas para a área de georreferenciamento
   - Acompanhamento de processos de certificação e averbação junto ao INCRA e CRI.
-  - 
 ### Técnico em Mineração e Auxiliar Geral - Chiavini e Santos Mineração e Meio Ambiente (07/2014 - 02/2016)
   - Auxílio em projetos de consultoria na área de mineração e meio ambiente
   - Realização de projetos no ramo global da mineração desde licenciamento ambiental até a estruturação do beneficiamento
   - Realização de plantas de Uso e Ocupação do Solo, estudos de cubagem e planejamento de mina
   - Operação de softwares como ArcGis, AutoCAD, DataMine e GlobalMapper
   - Atendimento às exigências técnicas de orgãos regulamentadores como CETESB e ANM (Antigo DNPM)
-
 ### Técnico em Mineração - Savi Mineração e Meio Ambiente (01/2014 - 05/2014)
   - Auxílio em projetos de consultoria na área de mineração e meio ambiente
   - Realização de projetos no ramo global da mineração desde licenciamento ambiental até a estruturação do beneficiamento
   - Realização de plantas de Uso e Ocupação do Solo, estudos de cubagem e planejamento de mina
   - Operação de softwares como ArcGis, AutoCAD, DataMine e GlobalMapper
   - Atendimento às exigências técnicas de orgãos regulamentadores como CETESB e ANM (Antigo DNPM)
-
 ### Estagiário / Técnico em Mineração - Plagemma Mineração e Meio Ambiente (março/2012 - dezembro/2013)
 - Auxílio em projetos de consultoria na área de mineração e meio ambiente
 - Realização de projetos no ramo global da mineração desde licenciamento ambiental até a estruturação do beneficiamento
