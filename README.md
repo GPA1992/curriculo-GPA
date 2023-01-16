@@ -49,3 +49,4 @@ melhorias para atender às necessidades dos meus clientes.
 #### Plagemma Mineração e Meio Ambiente / 2012 - 2013
 - Trabalhava em projetos de consultoria na área de mineração e meio ambiente, além de realizar projetos no ramo global da mineração desde licenciamento ambiental até a estruturação do beneficiamento. Também realizava plantas de Uso e Ocupação do Solo, estudos de cubagem e planejamento de mina. Operava softwares como ArcGis, AutoCAD, DataMine e GlobalMapper e me responsabilizava por atender às exigências técnicas de orgãos regulamentadores como CETESB e ANM.
 
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Gabriel%20Proen%C3%A7a%20de%20Araujo.pdf">Download PDF</a></button>
