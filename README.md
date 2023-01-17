@@ -43,6 +43,8 @@ otimismo, entusiasmo, inovação e adaptabilidade.
 ### Freelancer Desenvolvimento de Aplicações Web / 2022 - atual
   - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e
 melhorias para atender às necessidades dos meus clientes.
+  ##### Ferramentas utilizadas:
+  - Wordpress, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql, Git&Github
 ### Freelance Geoprocessamento / 2019-2021
   - Presto serviços de produção de material cartográfico para empresas do ramo da silvicultura, mineração, engenharia, geologia e meio ambiente. Todo material produzido segue as exigências técnicas específicas de cada empresa e mantém as informações sempre atualizadas e alinhadas com as normas de cada órgão regulador.
 ### Auxiliar Georreferenciamento e Desenhista SIG/Geoprocessamento Maringá Ferro Liga S.A / 2016-2019
