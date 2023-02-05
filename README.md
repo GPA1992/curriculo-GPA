@@ -20,7 +20,7 @@
 Desenvolvedor autônomo em constante evolução buscando expandir minhas habilidades e conhecimentos. Realizo diversos estudos e projetos pessoais para aumentar minha expertise e estar sempre atualizado com as ferramentas mais utilizadas no mercado de trabalho. Atualmente, estou fazendo o curso da Trybe para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 # Principais tecnologias e Habilidades
-- Git&Github, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql
+- Wordpress, Git&Github, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql, AWS;
 - Metodologias Ágeis
 - Habilidades Comportamentais.
 
