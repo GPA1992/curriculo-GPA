@@ -42,7 +42,7 @@ otimismo, entusiasmo, inovação e adaptabilidade.
 - Inglês – básico(boa leitura e compreensão)
 
 # Histórico Profissional
-### Software Engineer - Treebo / 2021 - atual
+### Software Engineer - Treebo / 2022 - atual
   - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e
 melhorias para atender às necessidades dos meus clientes.
   ##### Ferramentas utilizadas:
