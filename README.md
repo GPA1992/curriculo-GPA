@@ -17,10 +17,10 @@
 - Técnico em Mineração – Etec. Demetrio Azevedo Junior – Conclusão em 2013
 
 # Resumo
-Desenvolvedor autônomo em constante evolução buscando expandir minhas habilidades e conhecimentos. Realizo diversos estudos e projetos pessoais para aumentar minha expertise e estar sempre atualizado com as ferramentas mais utilizadas no mercado de trabalho. Atualmente, estou fazendo o curso da Trybe para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Desenvolvedor na Treebo, em constante evolução buscando expandir minhas habilidades e conhecimentos. Realizo diversos estudos e projetos pessoais para aumentar minha expertise e estar sempre atualizado com as ferramentas mais utilizadas no mercado de trabalho. Atualmente, estou fazendo o curso da Trybe para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 # Principais tecnologias e Habilidades
-- Wordpress, Git&Github, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql, AWS
+- Git&Github,  Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize, React-Native(Expo), AWS, Railway, Wordpress
 - Metodologias Ágeis
 - Habilidades Comportamentais.
 
@@ -46,7 +46,7 @@ otimismo, entusiasmo, inovação e adaptabilidade.
   - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e
 melhorias para atender às necessidades dos meus clientes.
   ##### Ferramentas utilizadas:
-  - Wordpress, Git&Github, JS, TS, React, Redux, Jest, Docker, NodeJs, Express, Sequelize, MySql, AWS
+  - Git&Github,  Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize, React-Native(Expo), AWS, Railway, Wordpress
 ### Freelance Geoprocessamento / 2019-2021
   - Presto serviços de produção de material cartográfico para empresas do ramo da silvicultura, mineração, engenharia, geologia e meio ambiente. Todo material produzido segue as exigências técnicas específicas de cada empresa e mantém as informações sempre atualizadas e alinhadas com as normas de cada órgão regulador.
 ### Auxiliar Georreferenciamento e Desenhista SIG/Geoprocessamento Maringá Ferro Liga S.A / 2016-2019
