@@ -6,6 +6,7 @@
 # Gabriel Proença de Araujo
 
 # Informações Pessoais
+- Itapeva/SP
 - Brasileiro, solteiro, 30 anos / CNH: A/B
 - Telefone: (15) 99827-3472 / E-mail: gabrielproencaaraujo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/gabrielproencaaraujo/  
