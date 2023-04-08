@@ -17,7 +17,7 @@
 - Técnico em Mineração – Etec. Demetrio Azevedo Junior – Conclusão em 2013
 
 # Resumo
-Desenvolvedor na Treebo, em constante evolução buscando expandir minhas habilidades e conhecimentos. Realizo diversos estudos e projetos pessoais para aumentar minha expertise e estar sempre atualizado com as ferramentas mais utilizadas no mercado de trabalho. Atualmente, estou fazendo o curso da Trybe para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Atuo como desenvolvimento fullstack e estou em constante evolução, busco diariamente expandir minhas habilidades e conhecimentos. Construi do zero diversos projetos pessoais para aumentar minha expertise e desenvolver ainda mais minhas hards e softs skills. Atualmente, estou fazendo o curso da Trybe e Ciencias da Computação para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
 
 # Principais tecnologias e Habilidades
 - Git&Github,  Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize, React-Native(Expo), AWS, Railway, Wordpress
