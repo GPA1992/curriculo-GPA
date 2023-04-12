@@ -50,7 +50,7 @@ melhorias para atender às necessidades dos meus clientes.
   - Git&Github,  Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize, React-Native(Expo), AWS, Railway, Wordpress
 ### Freelance Geoprocessamento / 2019-2021
   - Realizava prestação de serviços de produção de material cartográfico para empresas do ramo da silvicultura, mineração, engenharia, geologia e meio ambiente. Todo material produzido segue as exigências técnicas específicas de cada empresa e mantém as informações sempre atualizadas e alinhadas com as normas de cada órgão regulador.
-### Auxiliar Georreferenciamento e Desenhista SIG/Geoprocessamento Maringá Ferro Liga S.A / 2016-2019
+### Analista SIG/Geoprocessamento Maringá Ferro Liga S.A / 2016-2019
   - Realizava trabalhos no âmbito da mineração e sensoriamento remoto, além de elaborar peças técnicas para prospecção mineral. Também atuava como gestor de pessoas em trabalhos de campo, desenvolvia trabalhos para o gerenciamento macro e micro das florestas e elaborava peças técnicas e trabalhos de campo para o setor ambiental. Utilizava GPS RTK, processamento de dados e elaboração de peças técnicas para a área de georreferenciamento e acompanhava processos de certificação e averbação junto ao INCRA e CRI.
 
 ### Técnico em Mineração e Desenhista SIG/Geoprocessamento:
