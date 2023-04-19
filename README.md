@@ -14,7 +14,8 @@
 - Site Pessoal: https://gabrielproenca.netlify.app/
 
 # Formação
-- Estudante de desenvolvimento na Trybe – Previsão de conclusão 2023
+- Cursando - Bacharelado em Ciência da Computação - Descomplica – Previsão de conclusão em abril de 2027
+- Desenvolvimento Web Fullstack Trybe – Conclusão em Maio de 2023
 - Técnico em Mineração – Etec. Demetrio Azevedo Junior – Conclusão em 2013
 
 # Resumo
