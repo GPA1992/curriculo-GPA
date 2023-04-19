@@ -1,4 +1,4 @@
-<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Gabriel%20Proen%C3%A7a%20de%20Araujo.pdf">Download PDF</a></button>
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Curriculo%20-%20Gabriel%20Proen%C3%A7a.pdf">Download PDF</a></button>
 </br>
 </br>
 
@@ -68,4 +68,4 @@ melhorias para atender às necessidades dos meus clientes.
 
 </br>
 </br>
-<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Gabriel%20Proen%C3%A7a%20de%20Araujo.pdf">Download PDF</a></button>
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Curriculo%20-%20Gabriel%20Proen%C3%A7a.pdf">Download PDF</a></button>
