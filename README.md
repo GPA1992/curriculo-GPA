@@ -43,15 +43,21 @@ otimismo, entusiasmo, inovação e adaptabilidade.
 - Inglês – básico(boa leitura e compreensão)
 
 # Histórico Profissional
-### Software Engineer - Treebo / 2022 - atual
+### Software Developer Fullstack - abr/2023 - atual
+#### - Workana
+  - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e melhorias para atender às necessidades dos clientes. Atuo principalmente em plataformas de trabalho como o Workana.
+#### Ferramentas utilizadas:
+  • Git&Github, Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize,
+React-Native(Expo), AWS, Railway, Wordpress
+### Software Engineer - Treebo mar/2022 abr/2023
   - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e
 melhorias para atender às necessidades dos meus clientes.
   ##### Ferramentas utilizadas:
   - Git&Github,  Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize, React-Native(Expo), AWS, Railway, Wordpress
 ### Freelance Geoprocessamento / 2019-2021
   - Realizava prestação de serviços de produção de material cartográfico para empresas do ramo da silvicultura, mineração, engenharia, geologia e meio ambiente. Todo material produzido segue as exigências técnicas específicas de cada empresa e mantém as informações sempre atualizadas e alinhadas com as normas de cada órgão regulador.
-### Analista SIG/Geoprocessamento 
-#### - Maringá Ferro Liga S.A / 2016-2019
+### Analista SIG/Geoprocessamento - set/2016 - ago/2019
+#### - Maringá Ferro Liga S.A
   - Realizava trabalhos no âmbito da mineração e sensoriamento remoto, além de elaborar peças técnicas para prospecção mineral. Também atuava como gestor de pessoas em trabalhos de campo, desenvolvia trabalhos para o gerenciamento macro e micro das florestas e elaborava peças técnicas e trabalhos de campo para o setor ambiental. Utilizava GPS RTK, processamento de dados e elaboração de peças técnicas para a área de georreferenciamento e acompanhava processos de certificação e averbação junto ao INCRA e CRI.
 
 ### Técnico em Mineração e Desenhista SIG/Geoprocessamento:
