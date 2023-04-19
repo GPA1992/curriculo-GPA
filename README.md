@@ -49,7 +49,7 @@ otimismo, entusiasmo, inovação e adaptabilidade.
 #### Ferramentas utilizadas:
   • Git&Github, Ts, React, SASS, Redux, Jest, Docker, NodeJs, Express, Mocha, Sinon, Chai, MySql, Sequelize,
 React-Native(Expo), AWS, Railway, Wordpress
-### Software Engineer - Treebo mar/2022 abr/2023
+### Software Developer - Treebo mar/2022 abr/2023
   - Trabalho com aplicações web, tendo como foco sites institucionais e sistemas. Oferecendo soluções para problemas e
 melhorias para atender às necessidades dos meus clientes.
   ##### Ferramentas utilizadas:
