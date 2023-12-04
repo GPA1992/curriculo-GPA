@@ -1,4 +1,4 @@
-<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Currículo%20-%20Gabriel%20Araújo%20.pdf">Download PDF</a></button>
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Currículo%20-%20Gabriel%20Araújo%20.pdf">CÚRRICULO COMPLETO</a></button>
 </br>
 </br>
 
@@ -20,6 +20,7 @@
 
 # Resumo
 
-Atuo como desenvolvimento fullstack e estou em constante evolução, busco diariamente expandir minhas habilidades e conhecimentos. Construi do zero diversos projetos pessoais para aumentar minha expertise e desenvolver ainda mais minhas hards e softs skills. Atualmente, estou fazendo o curso da Trybe e Ciencias da Computação para me aprimorar como desenvolvedor. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área, e estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Atuando como desenvolvedor fullstack, busco diariamente evoluir e expandir meus conhecimentos e habilidades. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área.
+Dessa forma, estou sempre em busca de novos desafios e oportunidades visando crescer profissionalmente e agregar valor aos produtos nos quais atuo. Constantemente me aprimoro e mantenho-me atualizado com as últimas tecnologias.
 
-<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Curriculo%20-%20Gabriel%20Proen%C3%A7a.pdf">Download PDF</a></button>
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Curriculo%20-%20Gabriel%20Proen%C3%A7a.pdf">CÚRRICULO COMPLETO</a></button>
