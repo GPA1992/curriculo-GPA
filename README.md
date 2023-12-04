@@ -18,6 +18,10 @@
 - Desenvolvimento Web Fullstack Trybe – Conclusão em Maio de 2023
 - Técnico em Mineração – Etec. Demetrio Azevedo Junior – Conclusão em 2013
 
+# Principais Técnologias
+
+JavaScript | TypeScript | Angular | React | NodeJs | Java| Spring Boot | Docker | Sql | NoSql
+
 # Resumo
 
 Atuando como desenvolvedor fullstack, busco diariamente evoluir e expandir meus conhecimentos e habilidades. Acredito que a dedicação e o empenho são fundamentais para o sucesso em qualquer área.
