@@ -1,4 +1,4 @@
-<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Currículo%20-%20Gabriel%20Araújo%20.pdf">CÚRRICULO COMPLETO</a></button>
+<button><a href="https://github.com/GPA1992/curriculo-GPA/raw/main/Currículo%20-%20Gabriel%20Araújo.pdf">CÚRRICULO COMPLETO</a></button>
 </br>
 </br>
 
