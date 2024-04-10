@@ -20,7 +20,7 @@
 
 # Principais Técnologias
 
-JavaScript | TypeScript | Angular | React | NodeJs | Java| Spring Boot | Docker | Sql | NoSql
+TypeScript | React Native | Angular | Java | Spring Boot | NODEjs | NextJs | NestJs | SQL | AWS | Docker
 
 # Resumo
 
